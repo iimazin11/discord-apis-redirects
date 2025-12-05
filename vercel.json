@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/iimazin11/discord-apis/",
+      "permanent": true
+    }
+  ]
+}
